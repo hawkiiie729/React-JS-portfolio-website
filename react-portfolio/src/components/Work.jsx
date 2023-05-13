@@ -31,12 +31,12 @@ const Work = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://delicate-wisp-0bcf86.netlify.app/">
+                <a href="https://delicate-wisp-0bcf86.netlify.app/" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/hawkiiie729/Movie-app">
+                <a href="https://github.com/hawkiiie729/Movie-app" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -58,12 +58,12 @@ const Work = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://gleaming-chimera-2c67c4.netlify.app/">
+                <a href="https://gleaming-chimera-2c67c4.netlify.app/" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/hawkiiie729/ReelsClone">
+                <a href="https://github.com/hawkiiie729/ReelsClone" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -85,12 +85,12 @@ const Work = () => {
                 React JS Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://delicate-wisp-0bcf86.netlify.app/">
+                <a href="https://delicate-wisp-0bcf86.netlify.app/" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/hawkiiie729/Movie-app/">
+                <a href="https://github.com/hawkiiie729/Movie-app/" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
